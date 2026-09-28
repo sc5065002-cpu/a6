@@ -1,0 +1,207 @@
+{
+  "domain": "meshcouturier",
+  "niche": "Haute Mesh Couturier & Structural Openwork Fashion",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "avant_garde_leather_couture.jpg",
+      "size_kb": 122.21,
+      "md5": "37dd29f74fcbb991ede119a433c4a23f",
+      "description": "Avant-garde leather and silk hybrid couture garment",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "meshcouturier_asset_2.jpg",
+      "size_kb": 121.85,
+      "md5": "c1bcbb3b441bcab505a64a73666f7d28",
+      "description": "Ensemble evening woman s AM 1983",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "meshcouturier_asset_3.jpg",
+      "size_kb": 171.68,
+      "md5": "5a65b42753426ef39190e5f8e2f707d4",
+      "description": "Tr s Parisien 1935 No. 13 Robe de",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "meshcouturier_asset_4.jpg",
+      "size_kb": 113.93,
+      "md5": "713e43b58e786e6745b26a716f157f86",
+      "description": "Attributed to Nicolas Fouch Port",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "meshcouturier_asset_5.jpg",
+      "size_kb": 181.1,
+      "md5": "a391bfcca3fc4c6fc1510d5fb2952922",
+      "description": "Christian herald 1913 1476403180",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "meshcouturier_asset_6.jpg",
+      "size_kb": 126.74,
+      "md5": "5065d29de26e0f14941b11dbb247ffa7",
+      "description": "Dior denver art8",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "meshcouturier_asset_7.jpg",
+      "size_kb": 282.96,
+      "md5": "8de1b87d133ff456861f7b043596167f",
+      "description": "Ruth Reeves A Collection of Origi",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "meshcouturier_asset_8.jpg",
+      "size_kb": 225.95,
+      "md5": "11467001869efe95dc63ca46f3065421",
+      "description": "1900 circa Damen Unterhose mit Spi",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "meshcouturier_asset_9.jpg",
+      "size_kb": 311.6,
+      "md5": "d9ec033c2a2d8351b196a7af2f28f20d",
+      "description": "1911 Britannica Lace 3",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "meshcouturier_asset_10.jpg",
+      "size_kb": 201.95,
+      "md5": "aad6dbd2fd32803ec59911f830d18468",
+      "description": "1940.5 web",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "meshcouturier_asset_11.jpg",
+      "size_kb": 161.97,
+      "md5": "0eb07c133a81f1c6db59866ca05d0bb8",
+      "description": "Album with lace designs by Jenny Mi",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "meshcouturier_asset_12.jpg",
+      "size_kb": 82.42,
+      "md5": "fd37bbb7a0192f19d2bd2469185061f7",
+      "description": "Atelier de dentelle Experton Reto",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "meshcouturier_asset_13.jpg",
+      "size_kb": 368.09,
+      "md5": "04ce0e11718889255322ed32e2256121",
+      "description": "Bolero lace AM 2994 4",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "meshcouturier_asset_14.jpg",
+      "size_kb": 362.57,
+      "md5": "ae4ff208da0c90781bf773bd4e334aed",
+      "description": "Bolero lace AM 2994 6",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "meshcouturier_asset_15.jpg",
+      "size_kb": 166.83,
+      "md5": "1453fe81cab8e39375da5703d348833f",
+      "description": "Border ST274 Lace Bobbin Lace",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "meshcouturier_asset_16.jpg",
+      "size_kb": 358.96,
+      "md5": "15bde4c17746d8284e4035dd95e0dbb6",
+      "description": "Border ST312 Lace Applique Need",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "meshcouturier_asset_17.jpg",
+      "size_kb": 394.19,
+      "md5": "ca555a6591463aee6c8d379a63520438",
+      "description": "Cantu bobbin lace collar",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "meshcouturier_asset_18.jpg",
+      "size_kb": 145.29,
+      "md5": "58cf0e1029bf19988325c7469248728b",
+      "description": "Cap lace AM 16227 2",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "meshcouturier_asset_19.jpg",
+      "size_kb": 207.82,
+      "md5": "094835123eacbf1d583688feecb39fc5",
+      "description": "Close up of a woman demostrating th",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "meshcouturier_asset_20.jpg",
+      "size_kb": 166.34,
+      "md5": "4b71816a92c747874eb89d0843673099",
+      "description": "Cotton Lace on cardboard cards 1",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://meshcouturier.com/sitemap.xml",
+    "robots": "https://meshcouturier.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
